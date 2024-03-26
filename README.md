@@ -17,3 +17,5 @@ print("Hi")
 <https://www.acmicpc.net>
 
 [백준](https://www.acmicpc.net)
+
+![21년도 헬스 사진](./IMG_0050.jpeg)
