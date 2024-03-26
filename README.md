@@ -6,3 +6,14 @@
 여기에 원하는 내용을 입력하세요.
 
 마크다운 문법을 활용해서 원하는 내용을 입력하세요.
+
+`print("Hello")`
+
+```python
+print("Hello")
+print("Hi")
+```
+
+<https://www.acmicpc.net>
+
+[백준](https://www.acmicpc.net)
